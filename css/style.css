@@ -1,0 +1,95 @@
+body{
+	background-color: lightpink;
+	color: darkblue;
+	font-size: 28px;
+	font-weight: bold;
+	font-family: 'Inconsolata', monospace;
+	margin: 0px;
+}
+
+.flower {
+	height: 200px;
+	width: 300px;
+	border-radius: 50%;
+	box-shadow: 38px 16px 102px 19px rgba(0,0,0,0.75);
+}
+
+.secondimage{
+	height: 500px;
+	width: 400px;
+	border-radius: 0%;
+	box-shadow: 0px 0px 0px 0px;
+}
+
+.thirddiv{
+	background-color: silver;
+}
+
+.titleone{
+	font-family: 'Indie Flower', cursive;
+	color: black;
+}
+
+p{
+	color:red;
+}
+
+.first-p{
+	color: white;
+}
+
+.second-p{
+	color: green;
+}
+
+
+.second{
+	background-color: purple;
+}
+
+.seconddiv{
+	color: yellow;
+}
+
+.background-img{
+	background-image: url(../img/rabbitshoes.gif);
+	height: 100vh;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.text-header{
+	padding-top: 40vh;
+	text-align: center;
+}
+
+.size-icon{
+	font-size: 100px;
+	color: black;
+}
+
+a {
+	text-decoration: none;
+}
+
+.icon-container a{
+	display: inline-block;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.yellow{
+	background-color: gold;
+}
+
+.dior{
+	height: 250px;
+	width: 500px;
+}
+
+.chanel{
+	height: 350px;
+	width: 300px;
+}
