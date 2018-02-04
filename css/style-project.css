@@ -21,6 +21,13 @@
 	background-position: center; 
 }
 
+.camera-img{
+	background-image: url(../img/camera.jpg);
+	height: 65vh;
+	background-size:cover;
+	background-attachment: fixed;
+}
+
 .main-title{
 	font-family: 'Great Vibes', cursive;
 	font-size: 100px;
