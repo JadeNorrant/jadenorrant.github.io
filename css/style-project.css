@@ -52,17 +52,32 @@ section{
 	padding-top: 100px;
 }
 
+.title-section{
+	font-family: 'Lobster Two', cursive;
+}
+
 #about{
 	background-color: #FF97B0;
+	padding-top: 60px;
 }
 
 
 #look-of-the-day{
 	background-color: #FF9083;
+	padding-top: 60px;
 }
 
 #travels{
 	background-color: #9AA3FF;
+	padding-top: 60px;
+}
+
+#contact{
+	background-color: #C3DAE8;
+}
+
+#image{
+	background-color: #C3DAE8;
 }
 
 .title-section{
@@ -82,6 +97,10 @@ section{
 .img-box{
 	    background-color: pink;
     padding: 50px;
+}
+
+.content{
+	text-align: center;
 }
 
 .bottom{
@@ -107,3 +126,5 @@ section{
 .bg-light {
     background-color: #f8f9fa85!important;
 }
+
+
